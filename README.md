@@ -1,6 +1,6 @@
 Atharva Bhargava
 
-Computer Science | AI & Machine Learning India
+Computer Science | AI & Machine Learning 
 
 I am a Computer Science student and researcher specializing in the integration of Classical Symbolic Logic and Modern Statistical Machine Learning. My work focuses on the mathematical foundations of artificial intelligence, seeking to build interpretable and robust systems by bridging legacy logic frameworks with contemporary neural architectures.
 
