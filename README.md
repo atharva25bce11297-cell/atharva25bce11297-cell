@@ -6,7 +6,7 @@ I am a Computer Science student and researcher specializing in the integration o
 
 Technical Competencies:
 
-- Languages & Frameworks
+Languages & Frameworks
 
 * Programming: Python (NumPy, Pandas, Scikit-Learn), Prolog, C++
 
